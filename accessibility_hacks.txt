@@ -1,0 +1,11 @@
+To open VS COde in any particular folder,
+
+Go to that folder
+Open CMD
+Type code .
+
+To open Notepad++ in any folder
+
+Go to that folder
+Open CMD
+start notepad++
